@@ -1,0 +1,8 @@
+diff --git a/MiNombre.txt b/MiNombre.txt
+index 37eece8..dc34d1e 100644
+--- a/MiNombre.txt
++++ b/MiNombre.txt
+@@ -1 +1,2 @@
+-Hola Me llamo Jose Rubio
++Hola Me llamo Jose Rubio Y ahora 
++Cambio el contenido para el paso 22
